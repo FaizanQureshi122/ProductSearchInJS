@@ -1,0 +1,11 @@
+#product{
+    width: 100%;
+    height: auto;
+    background-color: aqua;
+    display: flex;
+    flex-wrap: wrap;
+}
+#nav{
+    background-color: rgb(11, 40, 202);
+    
+}
