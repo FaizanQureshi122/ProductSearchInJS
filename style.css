@@ -10,7 +10,7 @@
     
 }
 /* CSS */
-.form-control {
+#searchInput {
     width: 100%; /* Use 100% width for responsiveness */
     height: 50px;
     box-sizing: border-box; /* Include padding and border in the total width/height */
@@ -19,7 +19,7 @@
   
   /* Optional: Apply specific styling for larger screens if needed */
   @media (min-width: 768px) {
-    .form-control {
+    #searchInput {
       width: 70%; /* Adjust the width for larger screens */
     }
   }
